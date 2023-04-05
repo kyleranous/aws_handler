@@ -2,7 +2,7 @@
 Wrapper for Boto3 AWS Calls
 
 ## TOC
-1. [param_store](#param-store)
+1. [param_store](#param_store)
 
 
 ## Modules
