@@ -23,7 +23,7 @@ result = param_store.get_paramter('test/parameter')
 #### get_parameter_dict
 **Returns: Dict**
 **Arguments:**
- - parameter_name: *String - Name of parameter to rea
+ - parameter_name: *String* - Name of parameter to read
 
 **Example:**
 ```python
